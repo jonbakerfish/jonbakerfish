@@ -1,4 +1,5 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jonbakerfish&count_private=true&include_all_commits=true"/>
+
 
 <!--
 **jonbakerfish/jonbakerfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
